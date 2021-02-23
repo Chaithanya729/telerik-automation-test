@@ -54,7 +54,6 @@ x64/
 *.tlh
 *.tmp
 *.tmp_proj
-*.csproj
 *.log
 *.vspscc
 *.vssscc
